@@ -1,0 +1,17 @@
+{
+  "name": "testUpdates",
+  "displayName": "testUpdates",
+  "expo": {
+    "name": "testUpdates",
+    "slug": "testUpdates",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
